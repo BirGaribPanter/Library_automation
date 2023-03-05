@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\bin\Debug\kutuphane_otomasyonu_1.exe.config
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\bin\Debug\kutuphane_otomasyonu_1.exe
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\bin\Debug\kutuphane_otomasyonu_1.pdb
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.Form1.resources
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.Properties.Resources.resources
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.exe
+C:\Users\PC\Desktop\projeler\kutuphane_otomasyonu_1\kutuphane_otomasyonu_1\obj\Debug\kutuphane_otomasyonu_1.pdb
